@@ -1,0 +1,14 @@
+D:\Унiвер\2 курс\ООП\Regex\RegExLab_A\RegExLab_E\bin\Debug\net6.0\RegExLab_E.exe
+D:\Унiвер\2 курс\ООП\Regex\RegExLab_A\RegExLab_E\bin\Debug\net6.0\RegExLab_E.deps.json
+D:\Унiвер\2 курс\ООП\Regex\RegExLab_A\RegExLab_E\bin\Debug\net6.0\RegExLab_E.runtimeconfig.json
+D:\Унiвер\2 курс\ООП\Regex\RegExLab_A\RegExLab_E\bin\Debug\net6.0\RegExLab_E.dll
+D:\Унiвер\2 курс\ООП\Regex\RegExLab_A\RegExLab_E\bin\Debug\net6.0\RegExLab_E.pdb
+D:\Унiвер\2 курс\ООП\Regex\RegExLab_A\RegExLab_E\obj\Debug\net6.0\RegExLab_E.GeneratedMSBuildEditorConfig.editorconfig
+D:\Унiвер\2 курс\ООП\Regex\RegExLab_A\RegExLab_E\obj\Debug\net6.0\RegExLab_E.AssemblyInfoInputs.cache
+D:\Унiвер\2 курс\ООП\Regex\RegExLab_A\RegExLab_E\obj\Debug\net6.0\RegExLab_E.AssemblyInfo.cs
+D:\Унiвер\2 курс\ООП\Regex\RegExLab_A\RegExLab_E\obj\Debug\net6.0\RegExLab_E.csproj.CoreCompileInputs.cache
+D:\Унiвер\2 курс\ООП\Regex\RegExLab_A\RegExLab_E\obj\Debug\net6.0\RegExLab_E.dll
+D:\Унiвер\2 курс\ООП\Regex\RegExLab_A\RegExLab_E\obj\Debug\net6.0\refint\RegExLab_E.dll
+D:\Унiвер\2 курс\ООП\Regex\RegExLab_A\RegExLab_E\obj\Debug\net6.0\RegExLab_E.pdb
+D:\Унiвер\2 курс\ООП\Regex\RegExLab_A\RegExLab_E\obj\Debug\net6.0\RegExLab_E.genruntimeconfig.cache
+D:\Унiвер\2 курс\ООП\Regex\RegExLab_A\RegExLab_E\obj\Debug\net6.0\ref\RegExLab_E.dll
